@@ -1,7 +1,7 @@
 # Pertemuan-7.s2
-###1. Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
+### 1. Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
 
-2. Hapus satu record dat pada tabel ### dosen yang telah dirjuk pada tabel mahasiswa. 
+### 2. Hapus satu record dat pada tabel ### dosen yang telah dirjuk pada tabel mahasiswa. 
 
 ### 3. Ubah mode menjadi ON UPDATE CASCADE ON DELETE RESTRICT. 
 
